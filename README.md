@@ -1,13 +1,13 @@
-## Hi there 👋
+## Hi , I'm Sylvia! 👋
 
-👩🏻‍💻 Majoring in Elctronics and Computer Engineering
-🔭 I’m currently studying in ZJUI, ZheJiang Univeristy. 
-🌱 I’m currently learning data mining, AI, Diffusion Models.
-📫 How to reach me: sylviachung.22@intl.zju.edu.cn
-👯 I’m looking to collaborate on any fun projects!
+👩🏻‍💻 Majoring in Electronics and Computer Engineering<br/>
+🔭 Studying in ZheJiang University, China. <br/>
+
+🌱 I’m currently learning data mining, AI, Diffusion Models.<br/>
+📫 How to reach me: sylviachung.22@intl.zju.edu.cn<br/>
   
 ### Languages & Tools 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,matlab,pytorch,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,matlab,pytorch,ubuntu,anaconda,linux)](https://skillicons.dev)
 
 <!--
 **sylviaaacys/sylviaaacys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
