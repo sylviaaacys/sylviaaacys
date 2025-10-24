@@ -2,9 +2,6 @@
 
 👩🏻‍💻 Majoring in Electronics and Computer Engineering<br/>
 🔭 Studying in ZheJiang University, China. <br/>
-
-🌱 I’m currently learning data mining, AI.<br/>
-⚡ Currenly working on Latent Diffusion Models Attacks and Time-series models.<br/>
 📫 How to reach me: sylviachung.22@intl.zju.edu.cn<br/>
   
 ### Languages & Tools 
